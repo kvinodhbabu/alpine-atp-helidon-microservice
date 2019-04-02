@@ -1,0 +1,81 @@
+iosvpd_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_iosvpd_high.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+iosvpd_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_iosvpd_low.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+iosvpd_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_iosvpd_medium.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+adwcrw_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_adwcrw_high.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+adwcrw_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_adwcrw_low.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+adwcrw_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_adwcrw_medium.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+newdatalake2_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_newdatalake2_high.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+newdatalake2_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_newdatalake2_low.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+newdatalake2_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_newdatalake2_medium.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+jse_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_jse_high.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+jse_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_jse_low.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+jse_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_jse_medium.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+jse_tp = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_jse_tp.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+jse_tpurgent = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_jse_tpurgent.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201902251631_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201902251631_high.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201902251631_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201902251631_low.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201902251631_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201902251631_medium.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201902251631_tp = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201902251631_tp.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201902251631_tpurgent = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201902251631_tpurgent.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+mnaadwc01_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_mnaadwc01_high.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+mnaadwc01_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_mnaadwc01_low.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+mnaadwc01_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_mnaadwc01_medium.adwc.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201901281207_high = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201901281207_high.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201901281207_low = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201901281207_low.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201901281207_medium = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201901281207_medium.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201901281207_tp = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201901281207_tp.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
+db201901281207_tpurgent = (description= (address=(protocol=tcps)(port=1522)(host=adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=hikomo1xnp7z6id_db201901281207_tpurgent.atp.oraclecloud.com))(security=(ssl_server_cert_dn=
+        "CN=adwc.eucom-central-1.oraclecloud.com,OU=Oracle BMCS FRANKFURT,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))   )
+
