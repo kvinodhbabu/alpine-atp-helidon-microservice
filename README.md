@@ -11,5 +11,6 @@ To build a docker image,
 4. Install docker on your local machine if it doesn't exist
 5. build Dockerfile - $docker build -t aone .
 6. Launch container mapping local port to 3050 -- $docker run -i -p 3050:3050 -t nodeapp
-7. check out using curl -XGET http://localhost:3050/atp/emp
+7. Assumption is there exists a table EMP in ATP Database
+8. check out using curl -XGET http://localhost:3050/atp/emp
 # alpine-atp-helidon-microservice
