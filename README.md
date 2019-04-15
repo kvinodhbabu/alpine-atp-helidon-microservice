@@ -1,5 +1,5 @@
 # ATPDocker
-containerizing node.js apps with docker and Oracle Autonomous Database
+Create/Deploy apps with docker and using Cloud Native Development to connect Oracle Autonomous Transaction Processing Database.
 
 Build docker images configured to run node.js apps on Oracle autonomous Databases.
 
