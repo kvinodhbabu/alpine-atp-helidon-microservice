@@ -17,4 +17,3 @@ To build a docker image,
 6. Launch container mapping local port to 3050 -- $docker run -i -p 3050:3050 -t nodeapp
 7. Assumption is there exists a table EMP in ATP Database
 8. check out using curl -XGET http://localhost:3050/atp/emp
-# 'alpine-atp-helidon-microservice'
