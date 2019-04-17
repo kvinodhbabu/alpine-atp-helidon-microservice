@@ -13,7 +13,7 @@ To build a docker image,
 4. Add your own [wallet](https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/connect-download-wallet.html#GUID-B06202D2-0597-41AA-9481-3B174F75D4B1) provided by oracle Autonomous database.
 4. Install docker on your local machine if it doesn't exist
 5. build Dockerfile \
-    $ 'docker build -t aone .'
+    $ `docker build -t aone .`
 6. Launch container mapping local port to 3050 -- $docker run -i -p 3050:3050 -t nodeapp
 7. Assumption is there exists a table EMP in ATP Database
-8. check out using curl -XGET http://localhost:3050/atp/emp
+8. Access using `curl -XGET http://localhost:3050/atp/emp`
